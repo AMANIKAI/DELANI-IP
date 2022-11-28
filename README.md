@@ -1,4 +1,4 @@
-#AMANI DELANI STUDIO
+# AMANI DELANI STUDIO
 
 ## DELANI STUDI BY AMANI
 
@@ -14,11 +14,15 @@ The author is **Amani Kai**
 
 ### Installation / Setup instruction
 
--Git clone https://github.com/AMANIKAI/DELANI-IP.git
--cd Delani-Studio
--code . or atom . depending on the text editor of your choise.
--Open the code with VS code
--Go live
+- Git clone https://github.com/AMANIKAI/DELANI-IP.git
+
+- cd Delani-Studio
+
+- code . or atom . depending on the text editor of your choise.
+
+- Open the code with VS code
+
+- Go live
 
 ## Description
 
@@ -52,12 +56,17 @@ The live link is at https://amanikai.github.io/DELANI-IP/
 
 ## Technologies Used
 
-JAVASCRIPT
-JQUERY
-HTML
-BOOTSTRAPS
-CSS
-CODE FORMATTED VIA PRETTIER AND TYPESCRIPT/JAVASCRIPT
+### JAVASCRIPT
+
+### JQUERY
+
+### HTML
+
+### BOOTSTRAPS
+
+### CSS
+
+### CODE FORMATTED VIA PRETTIER AND TYPESCRIPT/JAVASCRIPT
 
 ## Support and contact details
 
