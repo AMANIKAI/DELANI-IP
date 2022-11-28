@@ -38,17 +38,17 @@ The live link is at https://amanikai.github.io/DELANI-IP/
 
 - Enter your name
 
--Choose the service that you would like to receive
+- Choose the service that you would like to receive
 
 - Enter your Email Address
 
 - Enter your message or comment
 
--Click the submit button to send your message/request
+- Click the submit button to send your message/request
 
--Once you submit your results the page will alert you that your message/request has been received as belo
+- Once you submit your results the page will alert you that your message/request has been received as below
 
-### Alert "Hi Amani Kai, we have received your message. Thank you for contacting us.
+#### Alert "Hi Amani Kai, we have received your message. Thank you for contacting us.
 
 ## Technologies Used
 
