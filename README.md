@@ -1,10 +1,10 @@
 # AMANI DELANI STUDIO
 
-## DELANI STUDI BY AMANI
+## DELANI STUDIO BY AMANI
 
-### This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
+This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
 
-#### This is a web application for a studio which offers various technological services to our clients
+This is a web application for a studio which offers various technological services to our clients
 
 ### Version Date: 26th. Nov 2022
 
@@ -52,21 +52,21 @@ The live link is at https://amanikai.github.io/DELANI-IP/
 
 - Once you submit your results the page will alert you that your message/request has been received as below
 
-#### Alert "Hi Amani Kai, we have received your message. Thank you for contacting us.
+- Alert "Hi Amani Kai, we have received your message. Thank you for contacting us.
 
 ## Technologies Used
 
-### JAVASCRIPT
+- JAVASCRIPT
 
-### JQUERY
+- JQUERY
 
-### HTML
+- HTML
 
-### BOOTSTRAPS
+- BOOTSTRAPS
 
-### CSS
+- CSS
 
-### CODE FORMATTED VIA PRETTIER AND TYPESCRIPT/JAVASCRIPT
+- CODE FORMATTED VIA PRETTIER AND TYPESCRIPT/JAVASCRIPT
 
 ## Support and contact details
 
