@@ -32,7 +32,7 @@ This project is a web application for Delani studio that shows details about the
 
 ### Live link
 
-The live link is at https://amanikai.github.io/DELANI-IP/
+The live link is at https://amanikai.github.io/delani-ip/
 
 ### 
 
@@ -77,4 +77,4 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 _The License used is GPL_
 
 Copyright (c) 2022 **Amani Kai**
-##DELANI STUDIO BY AMANI
+## DELANI STUDIO BY AMANI
